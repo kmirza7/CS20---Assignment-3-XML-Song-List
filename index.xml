@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<?xml-stylesheet href="style.css" type="text/css"?>
+<playlist>
+    <page_title>XML Song List</page_title>
+    <song id="1">
+        <title>Hold Me Closer</title>
+        <artist> Artist: Elton John &amp; Britney Spears</artist>
+        <genre> Genre: Pop</genre>
+        <year> Year Released: 2021</year>
+    </song>
+
+    <song id="2">
+        <title>Bad Habit</title>
+        <artist> Artist: Steve Lacy</artist>
+        <genre> Genre: Soul</genre>
+        <year> Year Released: 2022</year>
+    </song>
+
+    <song id="3">
+        <title>Alone</title>
+        <artist> Artist:  Artist: Rod Wave</artist>
+        <genre> Genre: Rap</genre>
+        <year> Year Released: 2022</year>
+    </song>
+    
+    <song id="4">
+        <title>Bad Decisions</title>
+        <artist> Artist: Benny Blanco &amp; Snoop Dog</artist>
+        <genre> Genre: Pop</genre>
+        <year> Year Released: 2022</year>
+    </song>
+
+    <song id="5">
+        <title>Die For You</title>
+        <artist> Artist: The Weekend</artist>
+        <genre> Genre: R&amp;B</genre>
+        <year> Year Released: 2017</year>
+    </song>
+
+    <song id="6">
+        <title>Symphony</title>
+        <artist> Artist: Imagine Dragons</artist>
+        <genre> Genre: Alternative</genre>
+        <year> Year Released: 2022</year>
+    </song>
+
+    <song id="7">
+        <title>Waking Up Dreaming</title>
+        <artist> Artist: Shania Twain</artist>
+        <genre> Genre: Country</genre>
+        <year> Year Released: 2022</year>
+    </song>
+
+    <song id="8">
+        <title>Violet Sky</title>
+        <artist> Artist: Phello</artist>
+        <genre> Genre: Dance &amp; Electronic</genre>
+        <year> Year Released: 2022</year>
+    </song>
+
+    <song id="9">
+        <title>1979</title>
+        <artist> Artist: Smashing Pumpkins</artist>
+        <genre> Genre: Rock</genre>
+        <year> Year Released: 1995</year>
+    </song>
+
+    <song id="10">
+        <title>24K Magic</title>
+        <artist> Artist: Bruno Mars</artist>
+        <genre> Genre: Pop</genre>
+        <year> Year Released: 2022</year>
+    </song>
+
+    <song id="11">
+        <title>7 Rings</title>
+        <artist> Artist: Ariana Grande</artist>
+        <genre> Genre: Pop</genre>
+        <year> Year Released: 2021</year>
+    </song>
+
+    <song id="12">
+        <title>Alright</title>
+        <artist> Artist: Supergrass</artist>
+        <genre> Genre: Alternative</genre>
+        <year> Year Released: 1995</year>
+    </song>
+
+    <song id="13">
+        <title>Animals</title>
+        <artist> Artist: Martin Garrix</artist>
+        <genre> Genre: Dance</genre>
+        <year> Year Released: 2022</year>
+    </song>
+    
+</playlist>
